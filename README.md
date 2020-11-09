@@ -1,7 +1,9 @@
 # github_explorer
 
 ![base](https://user-images.githubusercontent.com/66075182/98587604-20339180-22a9-11eb-82cd-b3e56a36ca99.png)
-## Projeto criado com ReactJs, TypeScript, feito no GoStack por Raphael Silva.
+
+## An explorer of the github api to find repositories 🚀
+### Projeto criado com ReactJs, TypeScript, feito no GoStack por Raphael Silva.
 
 <div align="center">
   <img alt="React" src="https://camo.githubusercontent.com/1af8e9f28cfcfbe64ee7fb151a317da44782c744/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765622d72656163742d626c7565">
